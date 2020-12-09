@@ -9,3 +9,10 @@ Gibbs essentially takes the passed url of an Anime-filled Open directory then se
      - You can use getAnimeList() to get a list of the anime result objects and use them. (The mal-api will help you with that)
   
   *The speed of the program is limited by the speed of the mal-api.
+  
+# Required Libraries
+
+- urllib : for server queries
+- bs4 (BeautifulSoup): for scraping
+- mal : the myanimelist api
+- plotly: for plotting the results' table
