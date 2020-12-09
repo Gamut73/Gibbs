@@ -1,5 +1,5 @@
 # What is Gibbs?
-Pirate the Carribean(Open directories) more easily. Gibbs essentially takes the passed url of an Anime-filled Open directory then searches the list of anime on Myanimelist.com using their api (https://pypi.org/project/mal-api/). It's useful for when you have found an Open directory filled with anime and you want to know which ones are any good so that you can download them, opposed to manually copying and pasting each title in the OD yourself.
+Gibbs essentially takes the passed url of an Anime-filled Open directory then searches the list of anime on Myanimelist.com using their api (https://pypi.org/project/mal-api/). It's useful for when you have found an Open directory filled with anime and you want to know which ones are any good so that you can download them, opposed to manually copying and pasting each title in the OD yourself.
 
 # How to use
   1. Import the Gibbs class
