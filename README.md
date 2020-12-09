@@ -7,3 +7,5 @@ Pirate the Carribean(Open directories) more easily. Gibbs essentially takes the 
       - You have the option of adding a numpy array of stopwords. These are strings that you repeatedly see in the OD that might cause bad search results.
   3. Call getMalInfo(<OD url>) on your objects to get a table with the anime's titles, scores and descriptions as columns.
      - You can use getAnimeList() to get a list of the anime result objects and use them. (The mal-api will help you with that)
+  
+  *The speed of the program is limited by the speed of the mal-api.
