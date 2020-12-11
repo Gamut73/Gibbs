@@ -13,7 +13,9 @@ Gibbs essentially takes the url of an Anime-filled Open directory then searches 
   
 # Dependencies
 
+- Python
 - urllib : for server queries
 - bs4 (BeautifulSoup): for scraping
 - mal :  myanimelist api
 - plotly: for plotting the results' table
+
